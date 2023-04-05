@@ -1,1 +1,3 @@
-# Tugas_6-CMS
+Rizki Minta Maito
+br
+Universitas Malikussaleh
