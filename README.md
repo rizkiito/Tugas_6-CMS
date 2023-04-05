@@ -1,3 +1,3 @@
 Rizki Minta Maito
-br
+<br>
 Universitas Malikussaleh
